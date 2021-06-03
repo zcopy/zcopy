@@ -85,13 +85,13 @@ layout: home
         </ul>
     </nav>
 
-    {% for category in site.data.webstack %}
+    {% for category in site.data.zcopy %}
         {% if category.sub %}
             {% for sub_category in category.sub %}
             <h4 class="text-gray"><i class="linecons-tag" style="margin-right: 7px;" id="{{ sub_category.name }}"></i>{{ sub_category.name }}</h4>
             <div class="row">
                 {% for link in sub_category.links %}
-                <div class="col-sm-4">
+                <div class="col-xs-6 col-sm-4 col-md-3">
                     <div class="xe-widget xe-conversations box2 label-info">
                         <div class="xe-comment-entry">
                             <a href="{{ link.url }}" class="xe-user-img" >
@@ -114,7 +114,7 @@ layout: home
         <h4 class="text-gray"><i class="linecons-tag" style="margin-right: 7px;" id="{{ category.name }}"></i>{{ category.name }}</h4>
         <div class="row">
             {% for link in category.links %}
-            <div class="col-sm-4">
+            <div class="col-xs-6 col-sm-4 col-md-3">
                 <div class="xe-widget xe-conversations box2 label-info">
                     <div class="xe-comment-entry">
                         <a href="{{ link.url }}" class="xe-user-img">
