@@ -91,11 +91,11 @@ layout: home
             <h4 class="text-gray"><i class="linecons-tag" style="margin-right: 7px;" id="{{ sub_category.name }}"></i>{{ sub_category.name }}</h4>
             <div class="row">
                 {% for link in sub_category.links %}
-                <div class="col-xs-6 col-sm-4 col-md-3">
-                    <div class="xe-widget xe-conversations box2 label-info">
+                <div class="col-xs-12 col-sm-6 col-md-4">
+                    <div class="xe-widget xe-conversations box2">
                         <div class="xe-comment-entry">
                             <a href="{{ link.url }}" class="xe-user-img" >
-                                <img src="{{ link.logo }}" class="img-circle" width="50">
+                                <img src="{{ link.logo }}" class="img-circle" width="60">
                             </a>
                             <div class="xe-comment">
                                 <a href="{{ link.url }}" class="xe-user-name overflowClip_1">
@@ -114,11 +114,11 @@ layout: home
         <h4 class="text-gray"><i class="linecons-tag" style="margin-right: 7px;" id="{{ category.name }}"></i>{{ category.name }}</h4>
         <div class="row">
             {% for link in category.links %}
-            <div class="col-xs-6 col-sm-4 col-md-3">
-                <div class="xe-widget xe-conversations box2 label-info">
+            <div class="col-xs-12 col-sm-6 col-md-4">
+                <div class="xe-widget xe-conversations box2">
                     <div class="xe-comment-entry">
                         <a href="{{ link.url }}" class="xe-user-img">
-                            <img src="{{ link.logo }}" class="img-circle" width="40">
+                            <img src="{{ link.logo }}" class="img-circle" width="60">
                         </a>
                         <div class="xe-comment">
                             <a href="{{ link.url }}" class="xe-user-name overflowClip_1">
