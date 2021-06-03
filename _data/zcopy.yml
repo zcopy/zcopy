@@ -1,0 +1,19 @@
+- name: 我的收藏
+  icon: linecons-star
+  links:
+    - title: Hexo
+      logo: https://hexo.zcopy.site/icon/favicon-96x96.png
+      url: https://hexo.zcopy.site/
+      description: 基于Node.js的快速、简洁且高效的博客框架
+    - title: Bulma
+      logo: https://bulma.zcopy.site/favicons/android-chrome-192x192.png
+      url: https://bulma.zcopy.site/
+      description: 基于Flexbox的免费、开源、现代化的CSS框架
+    - title: Sylus
+      logo: https://stylus.zcopy.site/favicon.ico
+      url: https://stylus.zcopy.site/
+      description: 富有表现力、动态、强大的CSS
+    - title: WebAssembly
+      logo: https://wasm.zcopy.site/favicon.ico
+      url: https://wasm.zcopy.site/
+      description: 基于堆栈的虚拟机的二进制指令格式
