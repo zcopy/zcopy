@@ -19,34 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Zcopy - 开源技术文档中文翻译计划
-keywords: UI设计,UI设计素材,设计导航,网址导航,设计资源,创意导航,创意网站导航,设计师网址大全,设计素材大全,设计师导航,UI设计资源,优秀UI设计欣赏,设计师导航,设计师网址大全,设计师网址导航,产品经理网址导航,交互设计师网址导航
+keywords: 
 description: Zcopy - 开源技术文档中文翻译计划
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://zcopy.site" # the base hostname & protocol for your site, e.g. http://example.com
-
-email: zcopy2020@outlook.com
-
-# Build settings
-theme: minima
-plugins:
-  - jekyll-feed
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
