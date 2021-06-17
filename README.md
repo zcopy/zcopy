@@ -1,4 +1,4 @@
 ---
 permalink: /about.html
-layout: about
+layout: default
 ---
