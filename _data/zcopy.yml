@@ -49,3 +49,11 @@
       logo: /icon/vue.png
       url: https://vuejs.zcopy.site
       description: 渐进式 JavaScript 框架
+    - title: Webpack.js
+      logo: /icon/webpack.png
+      url: https://webpack.zcopy.site
+      description: 将JavaScript打包在一起的Web打包器
+    - title: Purgecss
+      logo: /icon/purgecss.png
+      url: https://purgecss.zcopy.site
+      description: 一个用于删除项目中从未使用到的 CSS 代码的工具
