@@ -10,7 +10,7 @@
       url: https://jekyll.zcopy.site/
       description: 基于Ruby的简单博客静态网站生成器
     - title: Hugo
-      logo: /icon/hugo.ico
+      logo: /icon/hugo.png
       url: https://hugo.zcopy.site/
       description: 基于Golang、号称世界上最快的网站构建框架
 
