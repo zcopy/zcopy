@@ -9,6 +9,10 @@
       logo: /icon/jekyll.ico
       url: https://jekyll.zcopy.site/
       description: 基于Ruby的简单博客静态网站生成器
+    - title: Hugo
+      logo: /icon/hugo.ico
+      url: https://hugo.zcopy.site/
+      description: 基于Golang、号称世界上最快的网站构建框架
 
 - name: 其他项目
   icon: linecons-star
@@ -57,3 +61,7 @@
       logo: /icon/purgecss.png
       url: https://purgecss.zcopy.site
       description: 一个用于删除项目中从未使用到的 CSS 代码的工具
+    - title: Sass
+      logo: /icon/sass.png
+      url: https://sass.zcopy.site
+      description: 超级棒的CSS预处理器语言
