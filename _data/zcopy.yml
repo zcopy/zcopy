@@ -69,3 +69,7 @@
       logo: /icon/less.png
       url: https://less.zcopy.site
       description: 给CSS加点料的CSS预处理器语言
+    - title: Parcel.js
+      logo: /icon/parcel.png
+      url: https://parcel.zcopy.site
+      description: 极速零配置Web应用打包工具
