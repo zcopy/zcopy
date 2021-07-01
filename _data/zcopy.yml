@@ -65,3 +65,7 @@
       logo: /icon/sass.png
       url: https://sass.zcopy.site
       description: 超级棒的CSS预处理器语言
+    - title: Less.js
+      logo: /icon/less.png
+      url: https://less.zcopy.site
+      description: 给CSS加点料的CSS预处理器语言
