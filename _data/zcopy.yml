@@ -73,3 +73,7 @@
       logo: /icon/parcel.png
       url: https://parcel.zcopy.site
       description: 极速零配置Web应用打包工具
+    - title: Gulp.js
+      logo: /icon/gulp.png
+      url: https://gulp.zcopy.site
+      description: 用自动化构建工具增强你的工作流程！
