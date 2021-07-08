@@ -77,3 +77,7 @@
       logo: /icon/gulp.png
       url: https://gulp.zcopy.site
       description: 用自动化构建工具增强你的工作流程！
+    - title: Grunt.js
+      logo: /icon/grunt.png
+      url: https://grunt.zcopy.site
+      description: JavaScript 世界的任务构建工具
