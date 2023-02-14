@@ -7,6 +7,7 @@
   document.head.appendChild(ad);
 })();
 
+/*
 // Google Analytics
 (function(){
   var ga = document.createElement("script");
@@ -19,7 +20,7 @@
 
   gtag('config', 'UA-195431371-1');
 })();
-
+*/
 // baidu tongji
 var _hmt = _hmt || [];
 (function() {
